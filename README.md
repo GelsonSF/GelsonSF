@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 <div align="center">
   <a href="https://github.com/GelsonSF">
   <img height="150m" src="https://github-readme-stats.vercel.app/api?username=GelsonSF&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
