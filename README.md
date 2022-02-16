@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python, JavaScript e BigData
+- 🌱 I’m currently learning Python, JavaScript and BigData
 - 👯 I’m looking to collaborate on projects involving Python, PySpark, SQL, T-SQL, PL/SQL and ETL/ELT;
 - 📫 How to reach me: gelson.feitoza@gmail.com;
 - ⚡ Fun fact: I'm self-taught
