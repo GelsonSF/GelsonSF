@@ -13,6 +13,24 @@
   
   ##
   
+<div style="display: inline_block"><br>
+  <img align="center" alt="python"  	height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="pandas"		height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="numpy" 		height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg">
+  <img align="center" alt="scala" 		height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg">
+  <img align="center" alt="java" 		height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="git" 		height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="mongodb" 	height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="sql-server" 	height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="mysql" 		height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="oracle" 		height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="postgresql" 	height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="vscode" 		height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="figma" 		height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+</div>
+  
+  ##
+  
 <div>  
   <a href="https://www.linkedin.com/in/gelsonsousafeitoza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
